@@ -170,7 +170,7 @@ python run.py --data_dir /path/to/cifar-10-batches-py --mode grid_search --epoch
 
 ## 实验结果
 
-通过超参数调优，在CIFAR-10数据集上可以获得约50-55%的测试准确率 
+通过超参数调优，在CIFAR-10数据集上可以获得约58.32%及以上的测试准确率 
 
 ## 模型可视化工具
 
